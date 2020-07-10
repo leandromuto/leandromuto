@@ -1,4 +1,4 @@
-### Hi there, welcome! 👋 Let's see how Github is dealing with a loooooooooooooooooooooong text on user profiles! Hope this break the header 🙏😌 
+### Hi there, welcome! 👋 
 
 <!--
 **leandromuto/leandromuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
